@@ -1,6 +1,6 @@
 @font-face {
     font-family: parasto;
-    src: url(/assets/font/persian-font/parastoo-font-v1.0.0-alpha5/print/Parastoo-Print-Bold.ttf);
+    src: url(assets/font/Parastoo-Print-Bold.ttf);
 }
 
 
@@ -168,7 +168,7 @@ button:focus{
 }
 
 .forgotSection a{
-    color: rgb(41, 4, 253); 
+    color: rgb(51, 29, 175); 
 }
 
 @media (max-width: 768px) {
